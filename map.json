@@ -113,9 +113,24 @@
                  "name":"jitsi room",
                  "properties":[
                         {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Raum 1"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
                         }],
                  "rotation":0,
                  "visible":true,
