@@ -26,12 +26,6 @@
          "locked":true,
          "name":"jitsi1",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"room1"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -46,12 +40,6 @@
          "id":65,
          "name":"jitsi2",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"room2"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
